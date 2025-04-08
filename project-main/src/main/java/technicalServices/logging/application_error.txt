@@ -1,0 +1,23 @@
+[12/18/2024 at 02:41 ÖS][ERROR] Can't read input file!
+[12/18/2024 at 02:44 ÖS][ERROR] Can't read input file!
+[12/18/2024 at 04:05 ÖS][ERROR] Can't read input file!
+[12/18/2024 at 02:43 PM][ERROR] Can't read input file!
+[12/18/2024 at 05:13 PM][ERROR] Can't read input file!
+[12/20/2024 at 02:39 PM][ERROR] Can't read input file!
+[12/20/2024 at 02:43 PM][ERROR] Can't read input file!
+[12/21/2024 at 12:18 PM][ERROR] Cannot invoke "java.net.URL.toExternalForm()" because "location" is null
+[12/21/2024 at 12:18 PM][ERROR] Cannot invoke "java.net.URL.toExternalForm()" because "location" is null
+[12/21/2024 at 12:19 PM][ERROR] Cannot invoke "java.net.URL.toExternalForm()" because "location" is null
+[12/21/2024 at 12:19 PM][ERROR] Cannot invoke "java.net.URL.toExternalForm()" because "location" is null
+[12/21/2024 at 12:21 PM][ERROR] null
+[12/21/2024 at 12:21 PM][ERROR] null
+[12/21/2024 at 12:28 PM][ERROR] Width (0) and height (0) must be non-zero
+[12/21/2024 at 12:28 PM][ERROR] Width (0) and height (0) must be non-zero
+[12/21/2024 at 12:28 PM][ERROR] Width (0) and height (0) must be non-zero
+[12/21/2024 at 12:28 PM][ERROR] Width (0) and height (0) must be non-zero
+[01/02/2025 at 12:43 AM][ERROR] Position is already occupied by another object. Which object is it? FighterMonster [from class: Hall, method: addObject]
+[01/02/2025 at 01:52 AM][ERROR] No valid locations found to teleport the Rune. [from class: Hall, method: teleportRune]
+[01/02/2025 at 01:56 AM][ERROR] No valid locations found to teleport the Rune. [from class: Hall, method: teleportRune]
+[01/02/2025 at 02:02 AM][ERROR] No valid locations found to teleport the Rune. [from class: Hall, method: teleportRune]
+[01/02/2025 at 04:53 PM][ERROR] Object number validation failed. [from class: GameController, method: switchToBuildMode]
+[01/02/2025 at 05:09 PM][ERROR] Object number validation failed. [from class: GameController, method: switchToBuildMode]
